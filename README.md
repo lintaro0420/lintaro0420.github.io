@@ -9,6 +9,8 @@
 
 - Bachelor of Science in Sport Analytics, Jul 2017 – Aug 2021
 
+
+
 ## Work Experience 
 Ringwood Hawks (WNBL1), Data Analytics & Video Analysis 2024 - Present
 
