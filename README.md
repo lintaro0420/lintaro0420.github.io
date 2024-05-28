@@ -2,9 +2,11 @@
 
 ### Education 
 Monash University Melbourne, Australia
+
 Master of Data Science Jul 2022 – July 2024
 
 Syracuse University Syracuse, New York, U.S
+
 Bachelor of Science in Sport Analytics, Minor in Sport Management Jul 2017 – Aug 2021
 
 ### Work Experience 
