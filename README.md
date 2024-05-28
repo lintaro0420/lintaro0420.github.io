@@ -1,13 +1,13 @@
 # lintaro0420.github.io
 
 ## Education 
-### Monash University Melbourne, Australia
+#### Monash University Melbourne, Australia
 
-Master of Data Science, Jul 2022 – July 2024
+- Master of Data Science, Jul 2022 – July 2024
 
-### Syracuse University Syracuse, New York, U.S
+#### Syracuse University Syracuse, New York, U.S
 
-Bachelor of Science in Sport Analytics, Jul 2017 – Aug 2021
+- Bachelor of Science in Sport Analytics, Jul 2017 – Aug 2021
 
 ## Work Experience 
 Ringwood Hawks (WNBL1), Data Analytics & Video Analysis 2024 - Present
