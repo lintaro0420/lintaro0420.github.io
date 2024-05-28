@@ -3,13 +3,11 @@
 ## Education 
 ### Monash University Melbourne, Australia
 
-Master of Data Science
-Jul 2022 – July 2024
+Master of Data Science, Jul 2022 – July 2024
 
 ### Syracuse University Syracuse, New York, U.S
 
-Bachelor of Science in Sport Analytics, Minor in Sport Management 
-Jul 2017 – Aug 2021
+Bachelor of Science in Sport Analytics, Jul 2017 – Aug 2021
 
 ## Work Experience 
 Ringwood Hawks (WNBL1), Data Analytics & Video Analysis 2024 - Present
@@ -26,8 +24,8 @@ Data Analyst Intern, Syracuse University Women’s Basketball Oct 2017 – Apr 2
 
 - Collaborated with video coordinators and assistant coaches to present the analytical findings
 
-• Gathered real-time statistical data during games, specifically analyzing lineup efficiency to optimize team strategies and in-game adjustments
+- Gathered real-time statistical data during games, specifically analyzing lineup efficiency to optimize team strategies and in-game adjustments
 
-• Utilized Synergy to conduct in-depth analysis, identifying key patterns and trends in offensive rebounds that led to strategic adjustments in gameplay
+- Utilized Synergy to conduct in-depth analysis, identifying key patterns and trends in offensive rebounds that led to strategic adjustments in gameplay
 
 ### Projects 
