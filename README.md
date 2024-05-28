@@ -30,4 +30,15 @@ Data Analyst Intern, Syracuse University Women’s Basketball Oct 2017 – Apr 2
 
 - Utilized Synergy to conduct in-depth analysis, identifying key patterns and trends in offensive rebounds that led to strategic adjustments in gameplay
 
-### Projects 
+## Projects 
+
+#### [Caitlin Clark Analysis]
+- **Description:** This project involves analyzing Caitlin Clark's basketball performance using R. I created multiple shooting charts and heatmap from ESPN play-by-play data to analyze her strength and weakness. 
+- **Technologies Used:** R, ggplot2, dplyr
+
+### [Premier League xG Analysis]
+- **Description:** This project involves analyzing expected goals and goals scored by attackers in Premier League using R and Python. I webscraped data from Football Refeference.com(https://fbref.com/en/) by Python and created a visualization using R to analyze the data. 
+- **Technologies Used:** R, Python, Webscraping
+
+
+
