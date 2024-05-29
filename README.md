@@ -32,12 +32,12 @@ Data Analyst Intern, Syracuse University Women’s Basketball Oct 2017 – Apr 2
 
 ## Projects 
 
-#### [Caitlin Clark Analysis]
+#### [Caitlin Clark Analysis] (https://www.linkedin.com/feed/update/urn:li:activity:7190848700036911104/)
 - **Description:** This project involves analyzing Caitlin Clark's basketball performance using R. I created multiple shooting charts and heatmap from ESPN play-by-play data to analyze her strength and weakness. 
 - **Technologies Used:** R, ggplot2, dplyr
 
-### [Premier League xG Analysis]
-- **Description:** This project involves analyzing expected goals and goals scored by attackers in Premier League using R and Python. I webscraped data from Football Refeference.com(https://fbref.com/en/) by Python and created a visualization using R to analyze the data. 
+### [Premier League xG Analysis] (https://www.linkedin.com/feed/update/urn:li:activity:7191967066210377728/)
+- **Description:** This project involves analyzing expected goals and goals scored by attackers in Premier League using R and Python. I webscraped data from Football Refeference.com (https://fbref.com/en/) by Python and created a visualization using R to analyze the data. 
 - **Technologies Used:** R, Python, Webscraping
 
 
