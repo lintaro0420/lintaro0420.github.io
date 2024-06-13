@@ -2,9 +2,9 @@
 
 ## Introduction
 
-Welcome to my  portfolio! My name is Lintaro Miyashin, and I am a passionate data scientist with a deep interest in sports data analytics. 
+Welcome to my  portfolio! My name is Lintaro Miyashin, and I am a passionate data analyst with a deep interest in sports data analytics. 
 
-Throughout my academic and professional career, I have gained valuable experience working with various sports teams, including the Syracuse University Women's Basketball team and the Ringwood Hawks in the WNBL1 league. My roles have involved leveraging advanced statistics, creating impactful visualizations, and providing strategic recommendations to enhance team performance.
+Throughout my academic and professional journey, I have gained valuable experience working with various sports teams, including the Syracuse University Women's Basketball team and the Ringwood Hawks in the WNBL1 league. My roles have involved leveraging advanced statistics, creating impactful visualizations, and providing strategic recommendations to enhance team performance.
 
 In this portfolio, you will find a collection of projects that showcase my expertise in data analysis, visualization, and web scraping. These projects highlight my ability to extract meaningful insights from complex datasets and present them in a clear and visually appealing manner.
 
