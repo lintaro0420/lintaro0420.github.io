@@ -51,7 +51,7 @@ In this portfolio, you will find a collection of projects that showcase my exper
 ### [Caitlin Clark Analysis](https://www.linkedin.com/feed/update/urn:li:activity:7190848700036911104/)
 - **Description:** This project involves analyzing Caitlin Clark's basketball performance using R. I created multiple shooting charts and heatmaps from ESPN play-by-play data to analyze her strengths and weaknesses.
 - **Technologies Used:** R, ggplot2, dplyr
-- **GitHub link:** [Caitlin Clark Analysis GitHub Repository](https://github.com/your-username/caitlin-clark-analysis)
+- **GitHub link:** [Caitlin Clark Analysis GitHub Repository](https://github.com/lintaro0420/caitlin_clark_analysis/tree/main)
 
 
 ### [Premier League xG Analysis](https://www.linkedin.com/feed/update/urn:li:activity:7191967066210377728/)
