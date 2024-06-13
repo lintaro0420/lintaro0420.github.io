@@ -57,7 +57,7 @@ In this portfolio, you will find a collection of projects that showcase my exper
 ### [Premier League xG Analysis](https://www.linkedin.com/feed/update/urn:li:activity:7191967066210377728/)
 - **Description:** This project involves analyzing expected goals and goals scored by attackers in the Premier League using R and Python. I webscraped data from [Football Reference](https://fbref.com/en/) using Python and created visualizations using R to analyze the data.
 - **Technologies Used:** R, Python, Webscraping
-- **GitHub link:** [Premier League xG Analysis GitHub Repository](https://github.com/your-username/premier-league-xg-analysis)
+- **GitHub link:** [Premier League xG Analysis GitHub Repository](https://github.com/lintaro0420/EPL-xG-Analysis/tree/main)
 
 ### [Ringwood Hawks Post Game Report](https://public.tableau.com/app/profile/lintaro.miyashin/viz/vsSandringham/vsSandringham)
 - **Description:** This project involves analyzing team performance after the game. After each game, I sent the post game report to the head coach. The match report was created using Tableau
