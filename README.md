@@ -10,7 +10,7 @@ In this portfolio, you will find a collection of projects that showcase my exper
 
 
 **Contact Information:**
-- **Email:** [lintaro0420@gmail.com](mailto:lintaro0420@gmail.com)
+- **Email:** [lintarom0420@gmail.com](mailto:lintaro0420@gmail.com)
 - **LinkedIn:** [Lintaro Miyashin](https://www.linkedin.com/in/lintaromiyashin/)
 - **Phone:** +61 481 140 017
 
@@ -28,11 +28,13 @@ In this portfolio, you will find a collection of projects that showcase my exper
 ## Work Experience 
 **Ringwood Hawks (WNBL1), Data Analytics & Video Analysis, 2024 - Present**
 
-- Leveraged advanced stats from Synergy Sports to create impactful visualizations in R, providing strategic recommendations to the head coach
+- Leveraged advanced stats from Synergy Sports to create impactful visualizations in Tableau, providing strategic recommendations to the head coach
+  
+- Create a R shiny app to demonstrate shooting chart during halftime to the coaches
 
 - Worked closely with coaching staff to translate complex data from the hoopsdb into understandable and actionable strategies
 
-- Identified key performance trends and gaps from the data using Python, offering targeted solutions to enhance team performanc
+- Identified key performance trends and gaps from the data using Python, offering targeted solutions to enhance team performance
 
 **Data Analyst Intern, Syracuse University Women’s Basketball, Oct 2017 – Apr 2020**
 
