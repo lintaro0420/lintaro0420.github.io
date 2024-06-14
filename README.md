@@ -60,9 +60,10 @@ In this portfolio, you will find a collection of projects that showcase my exper
 - **GitHub link:** [Premier League xG Analysis GitHub Repository](https://github.com/lintaro0420/EPL-xG-Analysis/tree/main)
 
 ### [Ringwood Hawks Post Game Report](https://public.tableau.com/app/profile/lintaro.miyashin/viz/vsSandringham/vsSandringham)
-- **Description:** This project involves analyzing team performance after the game. After each game, I sent the post game report to the head coach. The match report was created using Tableau
+- **Description:** This project involves analyzing team performance after the game. After each game, I sent the post game report to the head coach. The match report was created using Tableau.
 - **Technologies Used:** Tableau
 - **Tableau link:** [Ringwood Hawks Post Game Report](https://public.tableau.com/app/profile/lintaro.miyashin/viz/vsSandringham/vsSandringham)
+- **Disclaimer** The data presented in this dashboard has been altered and is based on fictitious information. 
 
 
 
