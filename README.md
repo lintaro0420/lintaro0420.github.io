@@ -25,7 +25,7 @@ In this portfolio, you will find a collection of projects that showcase my exper
 
 
 
-## Work Experience 
+## Experience 
 **Ringwood Hawks (WNBL1), Data Analytics & Video Analysis, 2024 - Present**
 
 - Leveraged advanced stats from Synergy Sports to create impactful visualizations in Tableau, providing strategic recommendations to the head coach
