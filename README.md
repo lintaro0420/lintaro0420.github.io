@@ -60,6 +60,11 @@ In this portfolio, you will find a collection of projects that showcase my exper
 - **Technologies Used:** R, ggplot2, dplyr
 - **GitHub link:** [Caitlin Clark Analysis GitHub Repository](https://github.com/lintaro0420/caitlin_clark_analysis/tree/main)
 
+### [Churn Prediction]
+- **Description:** Developed a machine learning model to predict customer churn for a video streaming service using detailed customer data and advanced modeling techniques in python.
+- **Technologies Used:** Python, Machine Learning 
+- **GitHub link:** [Churn Prediction Challenge](https://github.com/lintaro0420/Churnprediction)
+
 
 ### [Premier League xG Analysis](https://www.linkedin.com/feed/update/urn:li:activity:7191967066210377728/)
 - **Description:** This project involves analyzing expected goals and goals scored by attackers in the Premier League using R and Python. I webscraped data from [Football Reference](https://fbref.com/en/) using Python and created visualizations using R to analyze the data.
