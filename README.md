@@ -76,3 +76,8 @@ In this portfolio, you will find a collection of projects that showcase my exper
 - **Technologies Used:** Python, Machine Learning 
 - **GitHub link:** [Churn Prediction Challenge](https://github.com/lintaro0420/Churnprediction)
 
+2. ### [Job Description Keywords Finder](https://github.com/lintaro0420/Job_Key_Words_Finder)
+- **Description:** Developed a Python script that identifies the top 10 most common words from a job description using Natural Language Processing (NLP) techniques. The script processes and analyzes large amounts of text data through several steps, including tokenization to split the text into individual words and lemmatization to reduce words to their base forms for consistent analysis. 
+- **Technologies Used:** Python, NLTK 
+- **GitHub link:** [Churn Prediction Challenge](https://github.com/lintaro0420/Job_Key_Words_Finder)
+
