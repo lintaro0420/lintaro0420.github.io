@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to my  portfolio! My name is Lintaro Miyashin, and I am a passionate data analyst with a deep interest in sports data analytics. 
+Welcome to my  portfolio! My name is Lintaro Miyashin, and I am a recent graduate from Monash University with a Master's degree in Data Science. 
 
 Throughout my academic and professional journey, I have gained valuable experience working with various sports teams, including the Syracuse University Women's Basketball team and the Ringwood Hawks in the WNBL1 league. My roles have involved leveraging advanced statistics, creating impactful visualizations, and providing strategic recommendations to enhance team performance.
 
