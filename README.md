@@ -53,7 +53,7 @@ In this portfolio, you will find a collection of projects that showcase my exper
 1. ### [Ringwood Hawks Post Game Report](https://public.tableau.com/app/profile/lintaro.miyashin/viz/vsSandringham/vsSandringham)
 - **Description:** This project entails analyzing team performance after each game. Following every match, I send a post-game report to the head coach. These match reports are created using Tableau. The data for this project is stored in Google Cloud Platform (GCP) and SQL is used to extract the data to create the visualizations.
 - **Technologies Used:** Tableau, GCP
-- **Skills:** Data Visualization/Interactice Dashboard
+- **Skills:** Data Visualization/ Interactice Dashboard
 - **Tableau link:** [Ringwood Hawks Post Game Report](https://public.tableau.com/app/profile/lintaro.miyashin6706/viz/post_game_report/Dashboard1)
 - **Disclaimer** The data presented in this dashboard has been altered and is based on fictitious information. 
 
@@ -61,7 +61,7 @@ In this portfolio, you will find a collection of projects that showcase my exper
 2. ### [Caitlin Clark Analysis](https://www.linkedin.com/feed/update/urn:li:activity:7190848700036911104/)
 - **Description:** This project involves analyzing Caitlin Clark's basketball performance using R. I created multiple shooting charts and heatmaps from ESPN play-by-play data to analyze her strengths and weaknesses.
 - **Technologies Used:** R 
-- **Skills:** Data Cleaning/Preprocessing, Data Visualization
+- **Skills:** Data Cleaning/ Preprocessing, Data Visualization
 - **GitHub link:** [Caitlin Clark Analysis GitHub Repository](https://github.com/lintaro0420/caitlin_clark_analysis/tree/main)
 
 
@@ -77,7 +77,7 @@ In this portfolio, you will find a collection of projects that showcase my exper
 1. ### [Churn Prediction Challenge](https://github.com/lintaro0420/Churnprediction)
 - **Description:** Developed a machine learning model to predict customer churn for a video streaming service using detailed customer data and advanced modeling techniques in python.
 - **Technologies Used:** Python 
-- **Skills:** Data Cleaning/Preprocessing, EDA, Predictive Modeling 
+- **Skills:** Data Cleaning/ Preprocessing, EDA, Predictive Modeling 
 - **GitHub link:** [Churn Prediction Challenge](https://github.com/lintaro0420/Churnprediction)
 
 2. ### [Job Description Keywords Finder](https://github.com/lintaro0420/Job_Key_Words_Finder)
