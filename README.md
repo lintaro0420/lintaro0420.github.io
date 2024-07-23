@@ -50,7 +50,7 @@ In this portfolio, you will find a collection of projects that showcase my exper
 
 ### Data Analytics and Visualizations 
 
-1. ### [Ringwood Hawks Post Game Report](https://public.tableau.com/app/profile/lintaro.miyashin/viz/vsSandringham/vsSandringham)
+1. ### [Ringwood Hawks Post Game Report](https://public.tableau.com/app/profile/lintaro.miyashin6706/viz/post_game_report/Dashboard1)
 - **Description:** This project entails analyzing team performance after each game. Following every match, I send a post-game report to the head coach. These match reports are created using Tableau. The data for this project is stored in Google Cloud Platform (GCP) and SQL is used to extract the data to create the visualizations.
 - **Technologies Used:** Tableau, GCP
 - **Skills:** Data Visualization/ Interactice Dashboard
