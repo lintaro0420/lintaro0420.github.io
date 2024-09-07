@@ -90,5 +90,5 @@ In this portfolio, you will find a collection of projects that showcase my exper
 - **Description:** Developed a regression model based on historical records of petrol price. The data sets contained the data of the hourly fluctuations in petrol prices throughout the year 2022, specifically in Italy. The goal was to build a model to predict future petrol price using the data. 
 - **Technologies Used:** Python
 - **Skills:** Data Cleaning/ Preprocessing, EDA, Predictive Modeling 
-- **GitHub link:** [Ptrol Price Prediction]([https://github.com/lintaro0420/Job_Key_Words_Finder](https://github.com/lintaro0420/Petrol_Price_Prediction)
+- **GitHub link:** [Ptrol Price Prediction](https://github.com/lintaro0420/Petrol_Price_Prediction)
 
