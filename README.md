@@ -48,7 +48,7 @@ In this portfolio, you will find a collection of projects that showcase my exper
   
 ## Projects 
 
-### Data Analytics and Visualizations 
+### Data Visualizations Projects
 
 1. ### [Ringwood Hawks Post Game Report](https://public.tableau.com/app/profile/lintaro.miyashin6706/viz/post_game_report/Dashboard1)
 - **Description:** This project entails analyzing team performance after each game. Following every match, I send a post-game report to the head coach. These match reports are created using Tableau. The data for this project is stored in Google Cloud Platform (GCP) and SQL is used to extract the data to create the visualizations.
@@ -57,28 +57,19 @@ In this portfolio, you will find a collection of projects that showcase my exper
 - **Tableau link:** [Ringwood Hawks Post Game Report](https://public.tableau.com/app/profile/lintaro.miyashin6706/viz/post_game_report/Dashboard1)
 - **Disclaimer** The data presented in this dashboard has been altered and is based on fictitious information. 
 
-
 2. ### [Caitlin Clark Analysis](https://www.linkedin.com/feed/update/urn:li:activity:7190848700036911104/)
 - **Description:** This project involves analyzing Caitlin Clark's basketball performance using R. I created multiple shooting charts and heatmaps from ESPN play-by-play data to analyze her strengths and weaknesses.
 - **Technologies Used:** R 
 - **Skills:** Data Cleaning/ Preprocessing, Data Visualization
 - **GitHub link:** [Caitlin Clark Analysis GitHub Repository](https://github.com/lintaro0420/caitlin_clark_analysis/tree/main)
 
+### Data Analytics Projects
 
-3. ### [Premier League xG Analysis](https://www.linkedin.com/feed/update/urn:li:activity:7191967066210377728/)
+1. ### [Premier League xG Analysis](https://www.linkedin.com/feed/update/urn:li:activity:7191967066210377728/)
 - **Description:** This project involves analyzing expected goals and goals scored by attackers in the Premier League using R and Python. I webscraped data from [Football Reference](https://fbref.com/en/) using Python and created visualizations using R to analyze the data.
 - **Technologies Used:** R, Python
 - **Skills:** Webscraping/Data Collecting, Data Cleaning/Preprocessing, Data Visualization
 - **GitHub link:** [Premier League xG Analysis GitHub Repository](https://github.com/lintaro0420/EPL-xG-Analysis/tree/main)
-
-
-### Data Science
-
-1. ### [Churn Prediction Challenge](https://github.com/lintaro0420/Churnprediction)
-- **Description:** Developed a machine learning model to predict customer churn for a video streaming service using detailed customer data and advanced modeling techniques in python.
-- **Technologies Used:** Python 
-- **Skills:** Data Cleaning/ Preprocessing, EDA, Predictive Modeling 
-- **GitHub link:** [Churn Prediction Challenge](https://github.com/lintaro0420/Churnprediction)
 
 2. ### [Job Description Keywords Finder](https://github.com/lintaro0420/Job_Key_Words_Finder)
 - **Description:** Developed a Python script that identifies the top 10 most common words from a job description using Natural Language Processing (NLP) techniques. The script processes and analyzes large amounts of text data through several steps, including tokenization to split the text into individual words and lemmatization to reduce words to their base forms for consistent analysis. 
@@ -86,7 +77,15 @@ In this portfolio, you will find a collection of projects that showcase my exper
 - **Skills:** Natural Language Processing (NLP)
 - **GitHub link:** [Job Description Keywords Finder](https://github.com/lintaro0420/Job_Key_Words_Finder)
 
-3. ### [Petrol Price Prediction](https://github.com/lintaro0420/Petrol_Price_Prediction)
+### Data Science Projects
+
+1. ### [Churn Prediction Challenge](https://github.com/lintaro0420/Churnprediction)
+- **Description:** Developed a machine learning model to predict customer churn for a video streaming service using detailed customer data and advanced modeling techniques in python.
+- **Technologies Used:** Python 
+- **Skills:** Data Cleaning/ Preprocessing, EDA, Predictive Modeling 
+- **GitHub link:** [Churn Prediction Challenge](https://github.com/lintaro0420/Churnprediction)
+
+2. ### [Petrol Price Prediction](https://github.com/lintaro0420/Petrol_Price_Prediction)
 - **Description:** Developed a regression model based on historical records of petrol price. The data sets contained the data of the hourly fluctuations in petrol prices throughout the year 2022, specifically in Italy. The goal was to build a model to predict future petrol price using the data. 
 - **Technologies Used:** Python
 - **Skills:** Data Cleaning/ Preprocessing, EDA, Predictive Modeling 
