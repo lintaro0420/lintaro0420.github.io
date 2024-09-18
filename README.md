@@ -57,11 +57,11 @@ In this portfolio, you will find a collection of projects that showcase my exper
 - **Tableau link:** [Ringwood Hawks Post Game Report](https://public.tableau.com/app/profile/lintaro.miyashin6706/viz/post_game_report/Dashboard1)
 - **Disclaimer** The data presented in this dashboard has been altered and is based on fictitious information. 
 
-2. ### [Adidas Sales Dashboard](https://public.tableau.com/app/profile/lintaro.miyashin6706/viz/AdidasUSSalesDashboard_17266177094540/FinalDashboard?publish=yes)
+2. ### [Adidas US Sales Dashboard](https://public.tableau.com/app/profile/lintaro.miyashin6706/viz/AdidasUSSalesDashboard_17266177094540/FinalDashboard?publish=yes)
 - **Description:** I developed a comprehensive sales dashboard for Adidas using a dataset sourced from Kaggle. By leveraging advanced data visualization techniques, I created multiple interactive graphs to track key performance indicators, including sales and profit trends across different regions in the U.S. The dashboard is designed to provide actionable insights for stakeholders, enabling data-driven decision-making to optimize business strategies.
 - **Technologies:** Tableau 
 - **Skills:** Data Visualization/ Interactice Dashboard
-- **GitHub link:** [Caitlin Clark Analysis GitHub Repository](https://public.tableau.com/app/profile/lintaro.miyashin6706/viz/AdidasUSSalesDashboard_17266177094540/FinalDashboard?publish=yes)
+- **Tableau link:** [Adidas US Sales Dashboard](https://public.tableau.com/app/profile/lintaro.miyashin6706/viz/AdidasUSSalesDashboard_17266177094540/FinalDashboard?publish=yes)
 
 3. ### [Caitlin Clark Analysis](https://www.linkedin.com/feed/update/urn:li:activity:7190848700036911104/)
 - **Description:** This project involves analyzing Caitlin Clark's basketball performance using R. I created multiple shooting charts and heatmaps from ESPN play-by-play data to analyze her strengths and weaknesses.
