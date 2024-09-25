@@ -63,20 +63,14 @@ In this portfolio, you will find a collection of projects that showcase my exper
 - **Skills:** Data Visualization/ Interactice Dashboard
 - **Tableau link:** [Adidas US Sales Dashboard](https://public.tableau.com/app/profile/lintaro.miyashin6706/viz/AdidasUSSalesDashboard_17266177094540/FinalDashboard?publish=yes)
 
-3. ### [Caitlin Clark Analysis](https://www.linkedin.com/feed/update/urn:li:activity:7190848700036911104/)
+
+### Data Analytics Projects
+
+1.  ### [Caitlin Clark Analysis](https://www.linkedin.com/feed/update/urn:li:activity:7190848700036911104/)
 - **Description:** This project involves analyzing Caitlin Clark's basketball performance using R. I created multiple shooting charts and heatmaps from ESPN play-by-play data to analyze her strengths and weaknesses.
 - **Technologies:** R 
 - **Skills:** Data Cleaning/ Preprocessing, Data Visualization
 - **GitHub link:** [Caitlin Clark Analysis GitHub Repository](https://github.com/lintaro0420/caitlin_clark_analysis/tree/main)
-
-
-### Data Analytics Projects
-
-1. ### [Premier League xG Analysis](https://www.linkedin.com/feed/update/urn:li:activity:7191967066210377728/)
-- **Description:** This project involves analyzing expected goals and goals scored by attackers in the Premier League using R and Python. I webscraped data from [Football Reference](https://fbref.com/en/) using Python and created visualizations using R to analyze the data.
-- **Technologies:** R, Python
-- **Skills:** Webscraping/Data Collecting, Data Cleaning/Preprocessing, Data Visualization
-- **GitHub link:** [Premier League xG Analysis GitHub Repository](https://github.com/lintaro0420/EPL-xG-Analysis/tree/main)
 
 2. ### [Job Description Keywords Finder](https://github.com/lintaro0420/Job_Key_Words_Finder)
 - **Description:** Developed a Python script that identifies the top 10 most common words from a job description using Natural Language Processing (NLP) techniques. The script processes and analyzes large amounts of text data through several steps, including tokenization to split the text into individual words and lemmatization to reduce words to their base forms for consistent analysis. 
