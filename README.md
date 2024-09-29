@@ -49,12 +49,12 @@ In this portfolio, you will find a collection of projects that showcase my exper
 ## Main Projects 
 
 ## [Main Projects with Detailed Report](https://stump-apricot-171.notion.site/Lintaro-Miyashin-DETAILED-PORTFOLIO-102444fff6708044ab7af89c84d64ae3)
-- The link above contains all the detailed report for the projects I have worked on so far. 
+The link above contains all the detailed report for the projects I have worked on so far. 
 
 
-- You can also access some of the projects from the below:
 
-  
+You can also access some of the projects from the below:
+
 ### Data Analytics Projects
 
 1. ### [Ringwood Hawks Post Game Report](https://public.tableau.com/app/profile/lintaro.miyashin6706/viz/post_game_report/Dashboard1)
