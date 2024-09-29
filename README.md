@@ -46,14 +46,16 @@ In this portfolio, you will find a collection of projects that showcase my exper
 
 - Utilized Synergy to conduct in-depth analysis, identifying key patterns and trends in offensive rebounds that led to strategic adjustments in gameplay
   
-## Projects 
+## Main Projects 
 
 ## [Main Projects with Detailed Report](https://stump-apricot-171.notion.site/Lintaro-Miyashin-DETAILED-PORTFOLIO-102444fff6708044ab7af89c84d64ae3)
 - The link above contains all the detailed report for the projects I have worked on so far. 
 
 
+- You can also access some of the projects from the below:
 
-### Other Projects
+  
+### Data Analytics Projects
 
 1. ### [Ringwood Hawks Post Game Report](https://public.tableau.com/app/profile/lintaro.miyashin6706/viz/post_game_report/Dashboard1)
 - **Description:** This project entails analyzing team performance after each game. Following every match, I send a post-game report to the head coach. These match reports are created using Tableau. The data for this project is stored in Google Cloud Platform (GCP) and SQL is used to extract the data to create the visualizations.
@@ -62,7 +64,7 @@ In this portfolio, you will find a collection of projects that showcase my exper
 - **Tableau link:** [Ringwood Hawks Post Game Report](https://public.tableau.com/app/profile/lintaro.miyashin6706/viz/post_game_report/Dashboard1)
 - **Disclaimer** The data presented in this dashboard has been altered and is based on fictitious information. 
 
-2. ### [Adidas US Sales Dashboard](https://public.tableau.com/app/profile/lintaro.miyashin6706/viz/AdidasUSSalesDashboard_17266177094540/FinalDashboard?publish=yes)
+2. ### [Adidas US Sales Dashboard](https://stump-apricot-171.notion.site/Adidas-Sales-Dashboard-a452674b8b8840f9ab829ee09fa91e79)
 - **Description:** I developed a comprehensive sales dashboard for Adidas using a dataset sourced from Kaggle. By leveraging advanced data visualization techniques, I created multiple interactive graphs to track key performance indicators, including sales and profit trends across different regions in the U.S. The dashboard is designed to provide actionable insights for stakeholders, enabling data-driven decision-making to optimize business strategies.
 - **Technologies:** Tableau 
 - **Skills:** Data Visualization/ Interactice Dashboard
@@ -85,13 +87,13 @@ In this portfolio, you will find a collection of projects that showcase my exper
 
 ### Data Science Projects
 
-1. ### [Churn Prediction Challenge](https://github.com/lintaro0420/Churnprediction)
+1. ### [Churn Prediction Challenge](https://stump-apricot-171.notion.site/Customer-Churn-Prediction-de72b0b9661e4d249acb6ff2a4e24b9c)
 - **Description:** Developed a machine learning model to predict customer churn for a video streaming service using detailed customer data and advanced modeling techniques in python.
 - **Technologies:** Python 
 - **Skills:** Data Cleaning/ Preprocessing, EDA, Predictive Modeling 
 - **GitHub link:** [Churn Prediction Challenge](https://github.com/lintaro0420/Churnprediction)
 
-2. ### [Petrol Price Prediction](https://github.com/lintaro0420/Petrol_Price_Prediction)
+2. ### [Petrol Price Prediction](https://stump-apricot-171.notion.site/Petrol-Price-Prediction-6b9b3e963a2246ef83d9822c7f06b9f5)
 - **Description:** Developed a regression model based on historical records of petrol price. The data sets contained the data of the hourly fluctuations in petrol prices throughout the year 2022, specifically in Italy. The goal was to build a model to predict future petrol price using the data. 
 - **Technologies:** Python
 - **Skills:** Data Cleaning/ Preprocessing, EDA, Predictive Modeling 
