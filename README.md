@@ -50,11 +50,11 @@ In this portfolio, you will find a collection of projects that showcase my exper
 
 Please click the link below to check out my portfolio:
 
-## [Main Projects with Detailed Report](https://stump-apricot-171.notion.site/Lintaro-Miyashin-DETAILED-PORTFOLIO-102444fff6708044ab7af89c84d64ae3)
+## [Portfolio of Key Projects with In-Depth Report](https://stump-apricot-171.notion.site/Lintaro-Miyashin-DETAILED-PORTFOLIO-102444fff6708044ab7af89c84d64ae3)
 
 <br>
 <br>
-
+<br>
 
 
 You can also access some of the projects from the below:
