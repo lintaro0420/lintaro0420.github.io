@@ -48,7 +48,7 @@ In this portfolio, you will find a collection of projects that showcase my exper
   
 ## Projects 
 
-## [Main Projects with Detailed Report](https://stump-apricot-171.notion.site/Detailed-Report-For-More-Information-850e125ea0d0480e801c171d4cee4e7a)
+## [Main Projects with Detailed Report]([https://stump-apricot-171.notion.site/Detailed-Report-For-More-Information-850e125ea0d0480e801c171d4cee4e7a](https://stump-apricot-171.notion.site/Lintaro-Miyashin-DETAILED-PORTFOLIO-102444fff6708044ab7af89c84d64ae3)
 - The link above contains all the detailed report for the projects I have worked on so far. 
 
 
