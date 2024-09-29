@@ -48,8 +48,9 @@ In this portfolio, you will find a collection of projects that showcase my exper
   
 ## Main Projects 
 
+Please click the link below to check out my portfolio:
+
 ## [Main Projects with Detailed Report](https://stump-apricot-171.notion.site/Lintaro-Miyashin-DETAILED-PORTFOLIO-102444fff6708044ab7af89c84d64ae3)
-The link above contains all the detailed report for the projects I have worked on so far. 
 
 
 
