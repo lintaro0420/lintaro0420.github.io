@@ -52,8 +52,8 @@ Please click the link below to check out my portfolio:
 
 ## [Main Projects with Detailed Report](https://stump-apricot-171.notion.site/Lintaro-Miyashin-DETAILED-PORTFOLIO-102444fff6708044ab7af89c84d64ae3)
 
-
-
+<br>
+<br>
 
 
 
