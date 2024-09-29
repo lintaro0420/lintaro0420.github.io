@@ -73,7 +73,7 @@ You can also access some of the projects from the below:
 
 ### Data Analytics Projects
 
-1.  ### [Caitlin Clark Analysis](https://www.linkedin.com/feed/update/urn:li:activity:7190848700036911104/)
+1.  ### [Caitlin Clark Analysis](https://stump-apricot-171.notion.site/Caitlin-Clark-Analysis-dc9f4562d5ff47ca823249a8a364d279)
 - **Description:** This project involves analyzing Caitlin Clark's basketball performance using R. I created multiple shooting charts and heatmaps from ESPN play-by-play data to analyze her strengths and weaknesses.
 - **Technologies:** R 
 - **Skills:** Data Cleaning/ Preprocessing, Data Visualization
