@@ -48,7 +48,10 @@ In this portfolio, you will find a collection of projects that showcase my exper
   
 ## Projects 
 
-### Data Visualizations Projects
+## [Main Projects with Detailed Report](https://stump-apricot-171.notion.site/Detailed-Report-For-More-Information-850e125ea0d0480e801c171d4cee4e7a)
+- This link contains all the detailed report for the projects I have worked on so far. 
+
+### Other Projects
 
 1. ### [Ringwood Hawks Post Game Report](https://public.tableau.com/app/profile/lintaro.miyashin6706/viz/post_game_report/Dashboard1)
 - **Description:** This project entails analyzing team performance after each game. Following every match, I send a post-game report to the head coach. These match reports are created using Tableau. The data for this project is stored in Google Cloud Platform (GCP) and SQL is used to extract the data to create the visualizations.
